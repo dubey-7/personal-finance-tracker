@@ -20,11 +20,6 @@ A Python-based personal finance tracker to manage income, expenses, and savings.
 
 ---
 
-### 📸 Screenshot  
-![Dashboard](Screenshot.png)
-
----
-
 ### 🚀 How to Run
 1. 🔗 Clone the repository  
 2. 📁 Open the project in Jupyter Notebook  
