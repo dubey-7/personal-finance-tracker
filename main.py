@@ -119,7 +119,7 @@ def plot_transactions(df):
     plt.plot(monthly.index, monthly["Savings"],
              linestyle="--", linewidth=2, label="Savings")
 
-    plt.title("📊 Monthly Income, Expense & Savings Trend")
+    plt.title("Monthly Income, Expense & Savings Trend")
     plt.xlabel("Month")
     plt.ylabel("Amount")
     plt.legend()
